@@ -1,0 +1,54 @@
+# section information
+section:
+  name: 关于
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: 普通的高中生
+# your company information
+company:
+  name: 深圳的一所普通高中
+  url: "https://www.null.com"
+
+# your resume. this file path should be relative to you "static" directory
+#resume: "files/resume.pdf"
+
+# a summary about you
+summary: '我是一名热爱科技和生活的中国高中生。我曾经是一名算法竞赛生。我热爱开发，乐于改变世界。'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "clouder0@outlook.com"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/clouder0"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: 领导
+  percentage: 85
+  color: blue
+- name: 协作
+  percentage: 90
+  color: yellow
+- name: 沟通
+  percentage: 85
+  color: pink
+- name: 努力
+  percentage: 90
+  color: green
+- name: 学习
+  percentage: 90
+  color: sky
+- name: 实践
+  percentage: 90
+  color: orange

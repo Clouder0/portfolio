@@ -1,0 +1,22 @@
+baseURL = "https://about.codein.icu"
+languageCode = "cn"
+title = "I'm Clouder"
+theme = "toha"
+enableEmoji = true
+
+[languages.cn]
+languageName = "Chinese"
+weight = 1
+
+[languages.en]
+languageName = "English"
+weight = 2
+
+[params]
+gitRepo = "https://github.com/hugo-toha/hugo-toha.github.io"
+enableBlogPost = false
+enableTOC = true
+background = "/images/canyon85034887.jpg"
+
+  [params.newsletter]
+  enable = false

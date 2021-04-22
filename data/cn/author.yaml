@@ -1,0 +1,16 @@
+# some information about you
+name: "Clouder"
+nickname: "Clouder"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "我是"
+image: "/images/author/avatar.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "clouder0@outlook.com"
+
+# some summary about what you do
+summary:
+  - 一名中国高中生
+  - 科技爱好者
+  - 曾经的算法竞赛生(OIer)
+  - 开源爱好者

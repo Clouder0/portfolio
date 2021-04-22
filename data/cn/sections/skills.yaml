@@ -1,0 +1,22 @@
+# section information
+section:
+  name: 技能
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "日常使用的操作系统。"
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "了解基础语法，用于算法竞赛。"
+- name: Algorithm
+  logo: /images/sections/skills/algorithm.png
+  summary: "竞赛级别的算法能力，约为广东 OI 省选水平。"

@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: 2021 NOIWC silver medal
+  image: /images/sections/achievements/NOIWC2021.jpg
+  summary: Got a second prize in China(ranked 300+ nationally).
+- title: 2020 CSP-S first prize
+  image: /images/sections/achievements/CSPS2020.jpg
+  summary: Got the first prize in Guangdong Province(ranked 10+ provincially, 100+ nationally).
+- title: 2020 BBCC bronze medal and 9th rank
+  image: /images/sections/achievements/award.jpg
+  summary: In Big Bay Computer Competition, ranked 3rd in Team Competition and 9th in Individual Competition.
+- title: 2019 CSP-S second prize
+  image: /images/sections/achievements/CSPS2019.jpg
+  summary: Got a second prize in Guangdong Province(ranked 200+ provincially).

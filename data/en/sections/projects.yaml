@@ -1,0 +1,55 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: ClouderBlog
+  logo: /images/sections/projects/996icu.jpg
+  role: Owner
+  timeline: "2020 - Present"
+  url: "https://www.codein.icu/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Personal Blog
+  tags: ["professional", "hobby", "hugo"]
+
+- name: AlgorithmPractice
+  logo: /images/sections/skills/c++.png
+  role: Owner
+  timeline: "2019 - 2020"
+  repo: https://github.com/Clouder0/AlgorithmPractice
+  #url: ""
+  summary: A repo to store my algorithm practice code. Had been deprecated for a long time.
+  tags: ["professional", "academic"]
+
+- name: GaokaoTeam
+  logo: /images/sections/projects/Teambition.png
+  role: Founder
+  timeline: "2021 - Present"
+  repo: https://github.com/gaokao-team/GaokaoNote
+  summary: A team aiming at Gaokao.
+  tags: ["academic"]
+
+- name: GaokaoDocs
+  logo: /images/sections/projects/Siyuan.png
+  role: Maintainer
+  timeline: "2021 - Present"
+  url: "https://gaokao.codein.icu/"
+  summary: A document website for GaokaoNotes.
+  tags: ["academic"]

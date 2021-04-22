@@ -1,0 +1,16 @@
+# some information about you
+name: "Clouder"
+nickname: "Clouder"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "/images/author/avatar.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "clouder0@outlook.com"
+
+# some summary about what you do
+summary:
+  - I am a Chinese high school student
+  - I am a tech fan
+  - I used to be a competitive programmer
+  - I like open source

@@ -1,0 +1,55 @@
+# section information
+section:
+  name: 项目
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: ClouderBlog
+  logo: /images/sections/projects/996icu.jpg
+  role: Owner
+  timeline: "2020 - 现在"
+  url: "https://www.codein.icu/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: 我的个人博客。
+  tags: ["professional", "hobby", "hugo"]
+
+- name: AlgorithmPractice
+  logo: /images/sections/skills/c++.png
+  role: Owner
+  timeline: "2019 - 2020"
+  repo: https://github.com/Clouder0/AlgorithmPractice
+  #url: ""
+  summary: 曾经用于存放解题代码的仓库，已经废弃许久了。
+  tags: ["professional", "academic"]
+
+- name: 高考互助组
+  logo: /images/sections/projects/Teambition.png
+  role: Founder
+  timeline: "2021 - 现在"
+  repo: https://github.com/gaokao-team/GaokaoNote
+  summary: 面向高考的合作性组织。
+  tags: ["academic"]
+
+- name: 高考文档
+  logo: /images/sections/projects/Siyuan.png
+  role: Maintainer
+  timeline: "2021 - 现在"
+  url: "https://gaokao.codein.icu/"
+  summary: 基于高考互助组产出内容的一个公益性文档。
+  tags: ["academic"]
