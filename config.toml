@@ -17,6 +17,9 @@ gitRepo = "https://github.com/hugo-toha/hugo-toha.github.io"
 enableBlogPost = false
 enableTOC = true
 background = "/images/canyon85034887.jpg"
+[params.logo]
+    main = "/images/ClouderLogo.png"
+    favicon = "/images/ClouderLogo.png"
 
   [params.newsletter]
   enable = false
