@@ -53,3 +53,11 @@ projects:
   url: "https://gaokao.codein.icu/"
   summary: 基于高考互助组产出内容的一个公益性文档。
   tags: ["academic"]
+
+- name: AnkiImporter
+  logo: /images/sections/projects/Anki.png
+  role: Ownder
+  timeline: "2021 - Present"
+  repo: https://github.com/Clouder0/AnkiImporter
+  summary: 纯文本(markdown) 文件批量导入 Anki 工具。
+  tags: ["professional","python"]

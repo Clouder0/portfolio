@@ -20,6 +20,6 @@ background = "/images/canyon85034887.jpg"
 [params.logo]
     main = "/images/ClouderLogo.png"
     favicon = "/images/ClouderLogo.png"
-
-  [params.newsletter]
-  enable = false
+[params.footer]
+    [params.footer.newsletter]
+        enable = false
