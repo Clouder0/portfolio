@@ -54,10 +54,10 @@ projects:
   summary: A document website for GaokaoNotes.
   tags: ["academic"]
 
-- name: AnkiImporter
+- name: AnkiLink
   logo: /images/sections/projects/Anki.png
   role: Ownder
   timeline: "2021 - Present"
-  repo: https://github.com/Clouder0/AnkiImporter
+  repo: https://github.com/Clouder0/AnkiLink
   summary: A tiny python script to import markdown files into Anki.
   tags: ["professional","python"]
