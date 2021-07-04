@@ -20,3 +20,6 @@ skills:
 - name: Algorithm
   logo: /images/sections/skills/algorithm.png
   summary: "Competitive-programming level algorithm ability."
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Intermediate Python skill, for daily tools."

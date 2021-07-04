@@ -20,3 +20,6 @@ skills:
 - name: Algorithm
   logo: /images/sections/skills/algorithm.png
   summary: "竞赛级别的算法能力，约为广东 OI 省选水平。"
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "中级 Python 能力，用于编写日常生活小工具。"
