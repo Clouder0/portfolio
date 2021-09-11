@@ -3,3 +3,9 @@ copyright: © 2021 Copyright.
 
 # Meta description for your site.  This will help the search engines to find your site.
 description: Clouder 的个人介绍。
+
+customMenus:
+- name: 博客
+  url: https://www.codein.icu/
+- name: 个人入口
+  url: https://bio.link/clouder/

@@ -56,8 +56,24 @@ projects:
 
 - name: AnkiLink
   logo: /images/sections/projects/Anki.png
-  role: Ownder
+  role: Owner
   timeline: "2021 - Present"
   repo: https://github.com/Clouder0/AnkiLink
   summary: 纯文本(markdown) 文件批量导入 Anki 工具。
+  tags: ["professional","python"]
+
+- name: AnkiIn
+  logo: /images/sections/projects/Anki.png
+  role: Owner
+  timeline: "2021 - Present"
+  repo: https://github.com/Clouder0/AnkiIn
+  summary: Markdown 导入 Anki 的工具库。
+  tags: ["professional","python"]
+
+- name: AnkiSiyuan
+  logo: /images/sections/projects/Anki.png
+  role: Owner
+  timeline: "2021 - Present"
+  repo: https://github.com/Clouder0/AnkiSiyuan
+  summary: 将思源笔记与 Anki 同步。
   tags: ["professional","python"]

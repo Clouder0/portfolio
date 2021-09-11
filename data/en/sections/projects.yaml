@@ -61,3 +61,19 @@ projects:
   repo: https://github.com/Clouder0/AnkiLink
   summary: A tiny python script to import markdown files into Anki.
   tags: ["professional","python"]
+
+- name: AnkiIn
+  logo: /images/sections/projects/Anki.png
+  role: Ownder
+  timeline: "2021 - Present"
+  repo: https://github.com/Clouder0/AnkiIn
+  summary: The tool library to import markdown into Anki.
+  tags: ["professional","python"]
+
+- name: AnkiSiyuan
+  logo: /images/sections/projects/Anki.png
+  role: Ownder
+  timeline: "2021 - Present"
+  repo: https://github.com/Clouder0/AnkiSiyuan
+  summary: Sync SiyuanNote with Anki.
+  tags: ["professional","python"]
