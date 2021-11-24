@@ -41,7 +41,7 @@ projects:
 - name: 高考互助组
   logo: /images/sections/projects/Teambition.png
   role: Founder
-  timeline: "2021 - 现在"
+  timeline: "2021 - 2021"
   repo: https://github.com/gaokao-team/GaokaoNote
   summary: 面向高考的合作性组织。
   tags: ["academic"]
@@ -49,7 +49,7 @@ projects:
 - name: 高考文档
   logo: /images/sections/projects/Siyuan.png
   role: Maintainer
-  timeline: "2021 - 现在"
+  timeline: "2021 - 2021"
   url: "https://gaokao.codein.icu/"
   summary: 基于高考互助组产出内容的一个公益性文档。
   tags: ["academic"]
@@ -57,7 +57,7 @@ projects:
 - name: AnkiLink
   logo: /images/sections/projects/Anki.png
   role: Owner
-  timeline: "2021 - Present"
+  timeline: "2021 - 现在"
   repo: https://github.com/Clouder0/AnkiLink
   summary: 纯文本(markdown) 文件批量导入 Anki 工具。
   tags: ["professional","python"]
@@ -65,7 +65,7 @@ projects:
 - name: AnkiIn
   logo: /images/sections/projects/Anki.png
   role: Owner
-  timeline: "2021 - Present"
+  timeline: "2021 - 现在"
   repo: https://github.com/Clouder0/AnkiIn
   summary: Markdown 导入 Anki 的工具库。
   tags: ["professional","python"]
@@ -73,7 +73,15 @@ projects:
 - name: AnkiSiyuan
   logo: /images/sections/projects/Anki.png
   role: Owner
-  timeline: "2021 - Present"
+  timeline: "2021 - 现在"
   repo: https://github.com/Clouder0/AnkiSiyuan
   summary: 将思源笔记与 Anki 同步。
+  tags: ["professional","python"]
+
+- name: SiyuanYuque
+  logo: /images/sections/projects/Siyuan.png
+  role: Owner
+  timeline: "2021 - 现在"
+  repo: https://github.com/Clouder0/SiyuanYuque
+  summary: 将思源笔记与语雀同步。
   tags: ["professional","python"]
