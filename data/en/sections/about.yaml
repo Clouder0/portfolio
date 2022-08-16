@@ -11,14 +11,14 @@ section:
 designation: Student
 # your company information
 company:
-  name: An oridnary school in Shenzhen
-  url: "https://www.null.com"
+  name: Harbin Institute of Technology(Shenzhen)
+  url: "https://www.hitsz.edu.cn/"
 
 # your resume. this file path should be relative to you "static" directory
 #resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am a Chinese high school student who enjoys tech & life. I had been a competitive programmer for 2 years. I'm keen on developing and being a change maker."
+summary: "I am a CS undergraduate who enjoys tech & life. I had been a competitive programmer for 2 years. I'm keen on developing and being a change maker."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

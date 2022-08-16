@@ -57,7 +57,7 @@ projects:
 - name: AnkiLink
   logo: /images/sections/projects/Anki.png
   role: Owner
-  timeline: "2021 - 现在"
+  timeline: "2021 - 2022"
   repo: https://github.com/Clouder0/AnkiLink
   summary: 纯文本(markdown) 文件批量导入 Anki 工具。
   tags: ["professional","python"]

@@ -11,14 +11,14 @@ section:
 designation: 普通的高中生
 # your company information
 company:
-  name: 深圳的一所普通高中
-  url: "https://www.null.com"
+  name: 哈尔滨工业大学（深圳）
+  url: "https://www.hitsz.edu.cn"
 
 # your resume. this file path should be relative to you "static" directory
 #resume: "files/resume.pdf"
 
 # a summary about you
-summary: '我是一名热爱科技和生活的中国高中生。我曾经是一名算法竞赛生。我热爱开发，乐于改变世界。'
+summary: '我是一名热爱科技和生活的 CS 本科生。我曾经是一名算法竞赛生。我热爱开发，乐于改变世界。'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
