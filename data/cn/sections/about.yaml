@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: 普通的高中生
+designation: 本科生
 # your company information
 company:
   name: 哈尔滨工业大学（深圳）
