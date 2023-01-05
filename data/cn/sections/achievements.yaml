@@ -10,6 +10,9 @@ section:
 
 # Your achievements achievements
 achievements:
+- title: 2022 ICPC 西安区域赛银牌
+  image: /images/sections/achievements/icpc.png
+  summary: 擦线银牌，排名 90+
 - title: 2021 NOIWC 银牌
   image: /images/sections/achievements/NOIWC2021.jpg
   summary: 银牌，全国排名 300+

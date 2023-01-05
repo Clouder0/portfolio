@@ -10,6 +10,9 @@ section:
 
 # Your achievements achievements
 achievements:
+- title: 2022 ICPC Xi'An Regional silver medal
+  image: /images/sections/achievements/icpc.png
+  summary: Got a silver medal in 2022 ICPC Xi'An Regional Contest.
 - title: 2021 NOIWC silver medal
   image: /images/sections/achievements/NOIWC2021.jpg
   summary: Got a second prize in China(ranked 300+ nationally).

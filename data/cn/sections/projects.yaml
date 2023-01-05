@@ -32,10 +32,10 @@ projects:
 - name: AlgorithmPractice
   logo: /images/sections/skills/c++.png
   role: Owner
-  timeline: "2019 - 2020"
+  timeline: "2019 - 现在"
   repo: https://github.com/Clouder0/AlgorithmPractice
   #url: ""
-  summary: 曾经用于存放解题代码的仓库，已经废弃许久了。
+  summary: 存放算法竞赛相关代码。
   tags: ["professional", "academic"]
 
 - name: 高考互助组
@@ -85,3 +85,11 @@ projects:
   repo: https://github.com/Clouder0/SiyuanYuque
   summary: 将思源笔记与语雀同步。
   tags: ["professional","python"]
+
+- name: 小学数学计算训练器
+  logo: /images/sections/projects/calc.png
+  role: Owner
+  timeline: "2022 - 2022"
+  repo: https://github.com/Clouder0/primary-math-trainer
+  summary: 用于练习简单的四则运算的小工具。
+  tags: ["hobby"]
